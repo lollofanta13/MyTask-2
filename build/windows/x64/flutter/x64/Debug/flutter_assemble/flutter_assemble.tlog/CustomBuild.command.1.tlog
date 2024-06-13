@@ -1,0 +1,28 @@
+^D:\BLOXYCRAFT_SOFTWARE\BLOXDESK\MYTASK\BUILD\WINDOWS\X64\CMAKEFILES\84BA1E45CE539C10D15FC95F39B966B9\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\utente\Downloads\flutter_windows_3.19.3-stable\flutter PROJECT_DIR=D:\bloxycraft_software\bloxdesk\MyTask FLUTTER_ROOT=C:\Users\utente\Downloads\flutter_windows_3.19.3-stable\flutter FLUTTER_EPHEMERAL_DIR=D:\bloxycraft_software\bloxdesk\MyTask\windows\flutter\ephemeral PROJECT_DIR=D:\bloxycraft_software\bloxdesk\MyTask FLUTTER_TARGET=D:\bloxycraft_software\bloxdesk\MyTask\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8yZTRiYTljNmZiNDk5Y2NkNGU4MTQyMDU0Mzc4M2NjNzI2N2FlNDA2Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\bloxycraft_software\bloxdesk\MyTask\.dart_tool\package_config.json C:/Users/utente/Downloads/flutter_windows_3.19.3-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BLOXYCRAFT_SOFTWARE\BLOXDESK\MYTASK\BUILD\WINDOWS\X64\CMAKEFILES\3438E0F0845DA5CA715C82A4663EF9AD\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\BLOXYCRAFT_SOFTWARE\BLOXDESK\MYTASK\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/bloxycraft_software/bloxdesk/MyTask/windows -BD:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64 --check-stamp-file D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

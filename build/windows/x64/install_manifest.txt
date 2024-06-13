@@ -1,0 +1,12 @@
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/bloxycraft_software/bloxdesk/MyTask/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
